@@ -1,0 +1,21 @@
+Solved Programming Assignments for Online SAAS-Class conducted by University of California, Berkeley.
+
+Website		: http://saas-class.org
+Curriculam	: CS 169 [Software Engineering]
+Instructor	: Armando Fox, David Patterson
+
+-------------------
+List of Assignments
+-------------------
+
+--hw1/
+In this homework you will do some simple programming exercises to get familiar with the Ruby language. We will provide detailed automatic grading of your code.
+
+--hw2/
+In this homework you will clone a GitHub repo containing an existing simple Rails app, add a feature to the app, and deploy the result publicly on the Heroku platform. We will run live integration tests against your deployed version.
+
+--hw3/
+In this homework you will create user stories to describe a feature of a SaaS app, use the Cucumber tool to turn those stories into executable acceptance tests, and run the tests against your SaaS app.
+
+--hw4/
+In this homework you will use a combination of Behavior-Driven Design (BDD) and Test-Driven Development (TDD) with the Cucumber and RSpec tools to add a new feature to a SaaS app, and deploy the resulting app on Heroku.
